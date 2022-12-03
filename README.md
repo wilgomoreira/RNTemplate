@@ -14,7 +14,6 @@
 ![alt text](/template/src/assets/Folders.png) 
 
 <br/>
-<br/>
 
 # Command to Create React Native APP with Template
 
