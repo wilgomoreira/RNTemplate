@@ -10,8 +10,10 @@
 3. Vector-Icons
 
 ### Structure of folders:
+<br/>
 
 ![alt text](template/src/assets/folders.png) 
+
 <br/>
 <br/>
 
